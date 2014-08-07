@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-This repository is for DataScience Toolkit assignment.
+This repository is for DataScientist's Toolbox assignment.
